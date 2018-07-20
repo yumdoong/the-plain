@@ -2,13 +2,13 @@
 title:              "The Plain - modified"
 description:        "A minimalist Jekyll theme"
 author_name:        "TBA" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           "https://avatars0.githubusercontent.com/u/41483221?v=4" # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://yumdoong.github.io # main url
 #baseurl:            /the-plain
 permalink:          /:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Pacific/Auckland # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
